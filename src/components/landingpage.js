@@ -14,10 +14,10 @@ class Landing extends Component {
                             alt = "avatar"
                             className = "avatar-img"
                             />
-                            <div className="banner-text">
-                                <h1>Full Stack Web Developer</h1>
+                            <div className="banner-text">                            
+                                <h1>Jaime Solis</h1>
                                 <hr/>
-                                <p>HTMl/CSS | JavaScript | React | React Native | NodeJS | MongoDB</p>
+                                <p>Data Analytics | Python | Visualization | R | Tableau | Machine Learning </p>
 
                                 <div className="social-links">
 
@@ -33,7 +33,17 @@ class Landing extends Component {
 
                                      {/* LinkedIn*/}
                                      <a href="http://google.com" rel="noopener noreferrer" target="_blank">
-                                    <i className="fa fa-linkedin-square" aria-hidden="true"></i>
+                                     <i class="fa fa-medium" aria-hidden="true"></i>
+                                    </a>
+
+                                     {/* LinkedIn*/}
+                                     <a href="http://google.com" rel="noopener noreferrer" target="_blank">
+                                     <i class="fa fa-twitter-square" aria-hidden="true"></i>
+                                    </a>
+
+                                     {/* LinkedIn*/}
+                                     <a href="http://google.com" rel="noopener noreferrer" target="_blank">
+                                     <i class="fa fa-instagram" aria-hidden="true"></i>
                                     </a>
 
                                 </div>
